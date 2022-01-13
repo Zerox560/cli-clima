@@ -1,0 +1,18 @@
+{
+  "name": "05-clima-app",
+  "version": "1.0.0",
+  "description": "Este proyecto es una aplicación de cli conectada a unas apis que le permiten al usuario ingresar el nombre de una ciudad, y conocer el clima que está haciendo en dicha ciudad.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "Ramiro Cabrera",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "colors": "^1.4.0",
+    "dotenv": "^11.0.0",
+    "inquirer": "^8.2.0"
+  }
+}
