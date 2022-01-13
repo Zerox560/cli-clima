@@ -9,11 +9,11 @@ Este proyecto es una aplicación de cli conectada a unas apis que le permiten al
 npm install
 ```
 
-### Segundo paso
+#### Segundo paso
 
 Conseguir apis keys para OpenWeather y MapBox y añadirlas en un archivo .env **(tiene un archivo de referencia llamado example.env)**
 
-### Tercer paso
+#### Tercer paso
 ```
 npm start
 ```
